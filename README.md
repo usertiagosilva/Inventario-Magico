@@ -1,4 +1,4 @@
-# 🪄 Inventário Mágico 
+#  Inventário Mágico 
 
 ## O Desafio do Inventário Mágico 
 Você é um poderoso mago em um mundo de RPG e precisa gerenciar seu inventário de itens mágicos. Seu objetivo é implementar funcionalidades que permitam:
@@ -35,6 +35,7 @@ Uma ação como **'adicionar'**, **'remover'** ou **'listar'**, e, quando necess
 
 ---
 
+![Capturar](https://github.com/user-attachments/assets/fce5e8d3-c2e5-4625-8910-6a3ce3843272)
 
 
 ---
